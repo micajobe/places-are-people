@@ -31,3 +31,7 @@ h1.huge, .h1.huge {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 }
+.blue {
+    background: #058aa8!important;
+    color: #fff!important;
+}
