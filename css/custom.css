@@ -13,6 +13,10 @@ This file contains styles required for the proper functionality and display
 of your Slides Project.
 */
 
+.slide.whiteSlide {
+  color: #404041;
+}
+
 h1.huge, .h1.huge {
   font-size: 46px;
   line-height: 1.218751;
