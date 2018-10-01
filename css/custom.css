@@ -25,6 +25,14 @@ h1.huge, .h1.huge {
   font-weight: 300;
 }
 
+h1.gigantic, .h1.gigantic {
+  font-size: 78px;
+  line-height: 1.218751;
+  letter-spacing: -0.04em;
+  margin-bottom: 40px;
+  font-weight: 800!important;
+}
+
 .h2, h2 {
     font-size: 32px;
     line-height: 1.17;
