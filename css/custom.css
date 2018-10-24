@@ -33,18 +33,6 @@ h1.gigantic, .h1.gigantic {
   font-weight: 800!important;
 }
 
-@media (max-width: 435px) {
-  h1.gigantic, .h1.gigantic {
-    font-size: 40px;
-  }
-  h1.huge, .h1.huge {
-    font-size: 32px;
-  }
-  p.hero {
-    font-size: 26px;
-  }
-}
-
 p.hero {
   font-size: 34px;
 }
@@ -67,4 +55,16 @@ p.hero {
 .material-icons {
   font-size: 60px!important;
   color: #ec6661;
+}
+
+@media (max-width: 435px) {
+  h1.gigantic, .h1.gigantic {
+    font-size: 40px;
+  }
+  h1.huge, .h1.huge {
+    font-size: 32px;
+  }
+  p.hero {
+    font-size: 26px!important;
+  }
 }
