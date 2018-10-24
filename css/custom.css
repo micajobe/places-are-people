@@ -40,6 +40,9 @@ h1.gigantic, .h1.gigantic {
   h1.huge, .h1.huge {
     font-size: 32px;
   }
+  p.hero {
+    font-size: 26px;
+  }
 }
 
 p.hero {
