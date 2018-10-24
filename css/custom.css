@@ -22,7 +22,7 @@ h1.huge, .h1.huge {
   line-height: 1.218751;
   letter-spacing: -0.04em;
   margin-bottom: 40px;
-  font-weight: 300;
+  font-weight: 700!important;
 }
 
 h1.gigantic, .h1.gigantic {
@@ -31,6 +31,10 @@ h1.gigantic, .h1.gigantic {
   letter-spacing: -0.04em;
   margin-bottom: 40px;
   font-weight: 800!important;
+}
+
+p.hero {
+  font-size: 34px;
 }
 
 .h2, h2 {
