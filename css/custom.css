@@ -26,11 +26,20 @@ h1.huge, .h1.huge {
 }
 
 h1.gigantic, .h1.gigantic {
-  font-size: 78px;
+  font-size: 76px;
   line-height: 1.218751;
   letter-spacing: -0.04em;
   margin-bottom: 40px;
   font-weight: 800!important;
+}
+
+@media (max-width: 435px) {
+  h1.gigantic, .h1.gigantic {
+    font-size: 40px;
+  }
+  h1.huge, .h1.huge {
+    font-size: 32px;
+  }
 }
 
 p.hero {
@@ -50,4 +59,9 @@ p.hero {
 .blue {
     background: #058aa8!important;
     color: #fff!important;
+}
+
+.material-icons {
+  font-size: 58px!important;
+  color: #ec6661;
 }
