@@ -68,3 +68,7 @@ p.hero {
     font-size: 26px!important;
   }
 }
+
+.pane.top{
+  opacity: 1;
+}
