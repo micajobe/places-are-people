@@ -17,6 +17,10 @@ of your Slides Project.
   color: #404041;
 }
 
+.slides {
+  background: #fff;
+}
+
 h1.huge, .h1.huge {
   font-size: 46px;
   line-height: 1.218751;
